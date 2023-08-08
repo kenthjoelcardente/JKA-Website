@@ -17,6 +17,10 @@ body {
     font-family: 'Nunito Sans', sans-serif
 }
 
+a {
+  color: red;
+}
+
 /* Create two equal columns that floats next to each other */
 .column {
     float: left;
